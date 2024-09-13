@@ -67,6 +67,12 @@ Başka bir deyişle şifreleme, gizli anahtarı bilmeden hiç kimsenin verileri 
 * **Zayıf bir şifreleme algoritmasına güvenmek. Eski bir şifreleme algoritması, her harfi birer birer kaydırmaktır. Örneğin, "TRY HACK ME", "USZ IBDL NF" olur. Bu şifreleme algoritmasının kırılması önemsizdir.**
 * **Şifreleme işlevleri için varsayılan veya zayıf anahtarların kullanılması. 1234'ü gizli anahtar olarak kullanan şifrelemeyi kırmak zor olmayacak**
 
+  ### Konuyla ilgili anlatımlı örnek linki aşağıdadır:
+
+  [WUGuvenligiornek](https://github.com/GozdeYagizyilmaz/tryhackme/blob/main/WUGuvenligiornek.md)
+
+  
+
   
 
 

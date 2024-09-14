@@ -26,4 +26,8 @@ Bu operatör daha önce tartıştığımız operatör (>) gibi bir çıkış yö
 ![image](https://github.com/user-attachments/assets/fb1220b1-b01a-4082-8ce3-1e8fff260272)
 
 
+## Linux Temelleri Serisinin ilk bölümü için aşağıdaki linke tıklayın :
+
+[LinuxTemelleri](https://github.com/GozdeYagizyilmaz/tryhackme/blob/main/LinuxTemelleri.md)
+
 
